@@ -42,3 +42,11 @@ td {
   border: 1px solid black;
   font-size: 25px;
 }
+
+h4 {
+  font-size: 50px;
+}
+
+form {
+  font-size: 25px;
+}
